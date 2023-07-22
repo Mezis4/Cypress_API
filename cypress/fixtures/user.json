@@ -1,11 +1,11 @@
 {
   "testuser": {
-  "id": 2,
-  "username": "mishkin",
-  "email": "mishkin@mail.ru",
-  "password": "123@009",
-  "phone": "79237057344",
-  "userStatus": 0
+    "id": 2,
+    "username": "mishkin",
+    "email": "mishkin@mail.ru",
+    "password": "123@009",
+    "phone": "79237057344",
+    "userStatus": 0
   },
 
   "update": {
